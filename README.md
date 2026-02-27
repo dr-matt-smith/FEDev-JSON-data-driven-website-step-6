@@ -14,7 +14,8 @@ JSON-driven website:
 Step 6
 |
 [Step 7](https://github.com/dr-matt-smith/FEDev-JSON-data-driven-website-step-7)
-
+|
+[Step 8](https://github.com/dr-matt-smith/FEDev-JSON-data-driven-website-step-8)
 
 # FEDev-JSON-data-driven-website-step-6
 
